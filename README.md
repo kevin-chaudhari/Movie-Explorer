@@ -8,7 +8,7 @@ The application integrates with the **TMDB API** via secure server-side proxy ro
 
 ## 🔗 Live Demo
 
-**Hosted App:** https://movie-explorer-kevinchaudhari.vercel.app/
+**Hosted App:** https://movie-explorer-kevinchaudhari.vercel.app/  
 **GitHub Repository:** https://github.com/kevin-chaudhari/Movie-Explorer  
 
 ---
